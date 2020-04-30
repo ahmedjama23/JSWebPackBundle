@@ -10,7 +10,7 @@
   "author": "James Hibbard",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lightbox2": "^2.9.0",
     "slick-carousel": "^1.6.0"
   },
